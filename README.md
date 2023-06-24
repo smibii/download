@@ -4,7 +4,6 @@
 ### JS Browser Download makes downloading files from a url very quick and easy
 
 
-# Quick Select
 [⇨ Installation](#-installation-)<br/>
 [⇨ Useage](#-useage-)
 
