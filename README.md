@@ -1,8 +1,6 @@
 # JS Browser Download
 
-
 ### JS Browser Download makes downloading files from a url very quick and easy
-
 
 # ⇩ Installation ⇩
 
